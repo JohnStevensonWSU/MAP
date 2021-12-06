@@ -1,0 +1,14 @@
+{
+  "user": {
+    "name": "John",
+    "age": "21",
+    "bio": "I like pie and cake",
+    "address": {
+      "street": "1234 se 56th Court",
+      "city": "Camas",
+      "state": "WA",
+      "zip": "98607",
+      "country": "USA"
+    }
+  }
+}

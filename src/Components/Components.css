@@ -1,0 +1,33 @@
+.myDiv{
+    align-content: center;
+    /*text-align: center;*/
+    margin: auto;
+}
+
+.myCard {
+    float: none;
+    margin: 0 auto 10px;
+}
+
+.myHeader {
+    margin-bottom: 0.5cm;
+}
+
+.myCreateCard {
+    width: 75rem;
+}
+
+input {
+    text-align: left;
+}
+
+.center {
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.centerText {
+    text-align: center;
+    margin: auto;
+}
